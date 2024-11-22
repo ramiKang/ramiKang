@@ -26,11 +26,11 @@
 [//]: # "Git Space"
   <h2>My Git Pets</h2>
   <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/ramiKang"
-      width="600"
-      height="300"
-    />
+  <img
+    src="https://render.gitanimals.org/farms/ramiKang"
+    width="600"
+    height="300"
+  />
   </a>
 </div>
 
